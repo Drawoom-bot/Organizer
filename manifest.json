@@ -1,0 +1,23 @@
+{
+  "name": "Osobní organizér",
+  "short_name": "Organizér",
+  "description": "Úkoly, cíle, návyky, kalendář",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F6F8",
+  "theme_color": "#00C896",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f4c5.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4c5.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
